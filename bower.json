@@ -1,0 +1,26 @@
+{
+    "name": "jquery-zeroclipboard",
+    "main": "jquery-zeroclipboard.js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/balsamiq/jquery-zeroclipboard",
+    "authors": [
+        "Stefano Masini <stefano@balsamiq.com>"
+    ],
+    "description": "jQuery ZeroClipboard Plugin",
+    "keywords": [
+        "jquery",
+        "zeroclipboard"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "*",
+        "zeroclipboard": "1.2.*"
+    }
+}

@@ -33,3 +33,8 @@ $(function {
     });
 });
 ```
+
+## Credits and similar work
+
+[zClip](http://www.steamdev.com/zclip/) is a similar plugin but it embeds an older version of ZeroClipboard 
+and seems to be not maintained anymore.
